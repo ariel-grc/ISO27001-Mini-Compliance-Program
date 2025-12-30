@@ -8,19 +8,6 @@
 
 ---
 
-## 📚 Table of Contents
-- 📌 Overview
-- 🧠 Purpose
-- 🔍 Key Highlights
-- 📁 Included Sections
-- 📂 Repository Contents
-- 🧩 Skills Demonstrated
-- 🎯 Ideal For Roles In
-- 🏷️ Tags
-- 📫 Connect
-
----
-
 ## 📌 Overview
 This project demonstrates the development of a mini compliance program for SentraNova AI Solutions, a fictional AI company. The program aligns with ISO 27001:2022 Annex A controls and simulates audit readiness for a startup environment.
 
@@ -56,7 +43,7 @@ To design a baseline Information Security Management System (ISMS) for a small o
 
 ## 📂 Repository Contents
 
-📊 [Compliance_Program_ISO27001_Controls_AssetRegister](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program/blob/main/Compliance_Program_ISO27001_Controls_AssetRegister.xlsx)  
+📊 [Compliance_Program_ISO27001_Controls_AssetRegister](./Compliance_Program_ISO27001_Controls_AssetRegister.xlsx)  
 📄 [Compliance_Program_Summary_ISO27001.pdf](./Compliance_Program_Summary_ISO27001.pdf)  
 📝 `README.md` (this file)
 
