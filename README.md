@@ -1,9 +1,9 @@
 # 🛡️ SentraNova AI Solutions – ISO 27001 Mini Compliance Program
 
-**Document Reference:** SNOVA-ISO27001-001 
+**Document Reference:** SNOVA-ISO27001-001  
 **Version:** 1.0 | **Status:** Completed  
 **Classification:** Public Portfolio  
-**Author:** Ariel Bethea / Compliance Officer
+**Author:** Ariel Bethea / Compliance Officer  
 **Effective Date:** December 30, 2025   
 
 ---
@@ -28,7 +28,7 @@ To design a baseline Information Security Management System (ISMS) for a small o
   - Classification, Criticality, Responsible Control
   - Backup, Encryption, Patch Status
 - ✅ Phased compliance roadmap for audit readiness
-- ✅ Risk-based prioritization and dependency mapping
+- ✅ Risk-based prioritization and dependency mapping  
 
 ---
 
@@ -37,24 +37,32 @@ To design a baseline Information Security Management System (ISMS) for a small o
 - Objectives & Methodology
 - ISO 27001 Control Matrix
 - Asset Register
-- Compliance Roadmap   
+- Compliance Roadmap  
+
+---
+
+## 📸 Visual Preview
+- ISO 27001 Control Matrix
+
+- Asset Register
 
 ---
 
 ## 📂 Repository Contents
-
-📊 [Compliance_Program_ISO27001_Controls_AssetRegister](./Compliance_Program_ISO27001_Controls_AssetRegister.xlsx)  
-📄 [Compliance_Program_Summary_ISO27001.pdf](./Compliance_Program_Summary_ISO27001.pdf)  
-📝 `README.md` (this file)
+- 📊 [Compliance_Program_ISO27001_Controls_AssetRegister.xlsx](./Compliance_Program_ISO27001_Controls_AssetRegister.xlsx): Contains ISO 27001 Annex A control matrix with risk context, maturity levels, dependencies, and priority, plus an asset register mapping controls to critical assets.  
+  
+- 📄 [Compliance_Program_Summary_ISO27001.pdf](./Compliance_Program_Summary_ISO27001.pdf): One-page summary outlining scope, compliance goals, objectives, methodology, and phased roadmap for audit readiness.  
+  
+- 📝 `README.md` (this file)  
 
 ---
 
 ## 🧩 Skills Demonstrated
-- ISO 27001 Control Mapping & Gap Analysis
-- Risk Context Development
-- Asset-Based Compliance Scoping
-- Governance Documentation
-- Roadmap Planning for Audit Readiness
+- ISO 27001 Control Mapping & Gap Analysis  
+- Risk Context Development  
+- Asset-Based Compliance Scoping  
+- Governance Documentation  
+- Roadmap Planning for Audit Readiness  
 
 ---
 
@@ -74,6 +82,6 @@ To design a baseline Information Security Management System (ISMS) for a small o
 
 ## 🤝 Connect
 Want to discuss risk frameworks or GRC documentation? Let’s connect:  
-🔗 [LinkedIn](www.linkedin.com/in/arielbethea)
+🔗 [LinkedIn](https://www.linkedin.com/in/arielbethea)
 
 ---
