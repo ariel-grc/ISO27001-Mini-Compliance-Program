@@ -56,7 +56,7 @@ To design a baseline Information Security Management System (ISMS) for a small o
 
 ## 📂 Repository Contents
 
-📊 [Compliance_Program_ISO27001_Controls_AssetRegister](https://github.com/ariel-grc/healthcare-risk-management-methodology/blob/main/templates/Sample_Risk_Register.xlsx)  
+📊 [Compliance_Program_ISO27001_Controls_AssetRegister](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program/blob/main/Compliance_Program_ISO27001_Controls_AssetRegister.xlsx)  
 📄 [Compliance_Program_Summary_ISO27001.pdf](./Compliance_Program_Summary_ISO27001.pdf)  
 📝 `README.md` (this file)
 
