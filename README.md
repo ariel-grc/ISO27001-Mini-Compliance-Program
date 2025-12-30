@@ -42,7 +42,7 @@ To design a baseline Information Security Management System (ISMS) for a small o
 ---
 
 ## 📸 Visual Preview
-- ISO 27001 Control Matrix
+- [ISO 27001 Control Matrix](./ISO27001_Controls_Screenshot.png)  
 
 - Asset Register
 
